@@ -3,7 +3,7 @@ public class ThreeSixNineGame {
 	public static void main(String[] args) {
 		int i = 1;
 		while (i <= 100) { // i가 1부터 100까지 반복되어야합니다.
-			int secondNumber = i % 10; // TODO 1의 자리 숫자를 나타냅니다
+			int secondNumber = i % 10; // 1의 자리 숫자를 나타냅니다
 			// secondNumber % 10
 
 			int firstNumber = i / 10; // 10의 자리 숫자를 나타냅니다.
