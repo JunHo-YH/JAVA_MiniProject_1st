@@ -3,9 +3,9 @@ package miniProejct1;
 public class Mini {
 
 	public static void main(String[] args) {
-		int i = 1;
+	    int i = 1;
 
-		for (; i <= 100; i++) { // TODO i가 1부터 100까지 반복되어야합니다.
+        for (; i <= 100; i++) { // TODO i가 1부터 100까지 반복되어야합니다.
 			int secondNumber = i % 10; // TODO 1의 자리 숫자를 나타냅니다
 			// secondNumber % 10
 
